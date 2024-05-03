@@ -1,4 +1,4 @@
-### Hi there 👋Im Nabil ben hamissa Full Stack JS Developer
+### Hello Folks Im Nabil ben hamissa Full Stack JS Developer
 [![trophy](https://github-profile-trophy.vercel.app/?username=nabil-hamisa&no-frame=true&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 ### Connect with me:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
