@@ -1,8 +1,9 @@
 ### Hello Folks Im Nabil ben hamissa Full Stack JS Developer
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nabil-hamisa&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=nabil-hamisa&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="nabil-hamisa" style="padding-right:20px;" />
 </p>
 <br />
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nabil-hamisa&no-frame=true&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 <div>
@@ -23,11 +24,18 @@
  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"width="40" height="40"/> 
  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"width="40" height="40"/> 
  <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"width="40" height="40" />
+ <img align="right"  width="40%" src="https://raw.githubusercontent.com/nabil-hamisa/nabil-hamisa/main/2hSSzwKYYFfl6ysOKDE9ucQYz9k.svg" alt="na5il-hamisa"  />
 </p>
 
 ### Connect with me:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+
+<p align="left">
+  
+  [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="holisitc_developer | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+</p>
 
 [linkedin]: https://www.linkedin.com/in/nabil-ben-hamissa/
 [facebook]: https://www.facebook.com/spyzerx/
